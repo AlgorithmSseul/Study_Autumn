@@ -1,14 +1,20 @@
-## 250821_250823
+## 250825_250830
 
 ### 알고리즘 문제
 
 ---
 
-### 백준 - 실버2
-- [백준 1012번: 유기농 배추](https://www.acmicpc.net/problem/1012)
+### 백준 - 실버3
+- [백준 14501번: 퇴사](https://www.acmicpc.net/problem/14501)
 
-### 프로그래머스 - Lv.2
-- [프로그래머스 1844번: 게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)
+### 백준 - 실버3
+- [백준 1904번: 01타일](https://www.acmicpc.net/problem/1904)
+
+### 백준 - 골드5
+- [백준 1916번: 최소비용 구하기](https://www.acmicpc.net/problem/1916)
+
+### 백준 - 골드4
+- [백준 14502번: 연구소](https://www.acmicpc.net/problem/14502)
 
 
 ## 알.쓰ㄹ 깃허브 이용방법
